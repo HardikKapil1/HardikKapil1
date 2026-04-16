@@ -17,13 +17,6 @@ Currently focused on **Node.js, TypeScript, system design, and real-world proble
 
 ---
 
-## 🧠 Currently Learning
-
-* Advanced **System Design & Scalability**
-* **Microservices & Event-driven architecture (Kafka, RabbitMQ)**
-* **TypeScript deep dive**
-
----
 
 ## 🛠️ Tech Stack
 
