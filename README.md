@@ -1,54 +1,83 @@
 # 💫 About Me
+Hi, I'm **Hardik Kapil** — a final-year B.Tech CSE (Data Science) 
+student and Software Intern building production-ready full stack 
+applications.
 
-Hi, I’m **Hardik Kapil** — a final-year B.Tech CSE (Data Science) student and Software Intern.
-
-I specialize in building **scalable backend systems**, **robust APIs**, and **production-ready full-stack applications**.
-Currently focused on **Node.js, TypeScript, system design, and real-world problem solving**.
-
----
-
-## 🚀 What I Do
-
-* ⚙️ Build scalable backend systems using Node.js / NestJS
-* 🔐 Implement secure authentication (JWT, OAuth)
-* 📡 Design clean, production-grade REST APIs
-* 🗄️ Work with SQL & NoSQL databases (MySQL, MongoDB, Redis)
-* ☁️ Deploy apps on AWS, GCP, Vercel, Render
+I work across the entire stack — from designing REST APIs and 
+backend systems to shipping responsive frontends and deploying 
+on cloud platforms.
 
 ---
 
+## 🚀 What I Build
+
+- ⚙️ Scalable backend systems with Node.js / NestJS
+- 🎨 Responsive frontends with React & Next.js  
+- 🔐 Secure auth systems (JWT, OAuth)
+- 🗄️ SQL & NoSQL databases (MySQL, MongoDB, Redis)
+- 🤖 AI-integrated applications (Groq, Gemini)
+- ☁️ Deployed apps on Vercel, Render, AWS
+
+---
 
 ## 🛠️ Tech Stack
 
-### 💻 Core
+### 💻 Frontend
+`React` • `Next.js` • `TypeScript` • `Tailwind CSS` • `Monaco Editor`
 
-`Node.js` • `TypeScript` • `React` • `Next.js` • `NestJS`
+### ⚙️ Backend
+`Node.js` • `NestJS` • `Express` • `FastAPI` • `REST APIs`
 
-### 🗄️ Databases
-
+### 🗄️ Databases & Cache
 `MySQL` • `MongoDB` • `PostgreSQL` • `Redis`
 
-### ⚙️ Backend & Tools
+### 🤖 AI & ML
+`Groq API` • `Google Gemini` • `Python` • `Streamlit`
 
-`Express` • `FastAPI` • `Docker` • `Kafka` • `RabbitMQ`
+### ☁️ DevOps & Cloud
+`Docker` • `AWS` • `GCP` • `Vercel` • `Render`
 
-### ☁️ Cloud & DevOps
+---
 
-`AWS` • `GCP` • `Vercel` • `Render` • `Firebase`
+## 🔥 Featured Projects
+
+### 🧠 AI Code Editor *(In Progress)*
+> AI-powered code editor with Intent Mode, Codebase Explainer & 
+> Decision Memory
+- **Stack:** React + Monaco Editor, NestJS, Groq (Llama 3.3 70B)
+- **Features:** Code optimization, AI codebase analysis
+
+### 🎟️ TicketOps
+> Production-grade event ticketing backend
+- **Stack:** NestJS, MySQL, TypeORM, Redis, Docker, JWT
+- **Features:** Redis caching, containerized deployment, 
+  secure auth
+
+### 🔐 PassOp
+> Full stack password manager — live & deployed
+- **Stack:** React + Vite, Express, MongoDB
+- **Live:** [Frontend](your-vercel-url) • 
+  [Backend](your-render-url)
+
+### 📈 Stock Price Prediction
+> ML model with interactive dashboard
+- **Stack:** Python, Streamlit, Scikit-learn
 
 ---
 
 ## 📊 GitHub Stats
-
-\![](https://github-readme-stats.vercel.app/api?username=HardikKapil1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=HardikKapil1&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HardikKapil1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=HardikKapil1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=HardikKapil1&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HardikKapil1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 🌐 Connect With Me
-
-* 💼 LinkedIn: https://linkedin.com/in/hardik-kapil
-* 📧 Email: [kapilhardik11@gmail.com](mailto:kapilhardik11@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/hardik-kapil)
+- 🌍 [Portfolio](your-portfolio-url)
+- 📧 [kapilhardik11@gmail.com](mailto:kapilhardik11@gmail.com)
 
 ---
 
-⭐ *I’m always open to internships, collaborations, and backend-heavy projects.*
+⭐ *Open to full stack roles, backend-heavy projects, 
+and collaborations.*
