@@ -56,8 +56,6 @@ on cloud platforms.
 ### 🔐 PassOp
 > Full stack password manager — live & deployed
 - **Stack:** React + Vite, Express, MongoDB
-- **Live:** [Frontend](your-vercel-url) • 
-  [Backend](your-render-url)
 
 ### 📈 Stock Price Prediction
 > ML model with interactive dashboard
@@ -74,7 +72,7 @@ on cloud platforms.
 
 ## 🌐 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/hardik-kapil)
-- 🌍 [Portfolio](your-portfolio-url)
+- 🌍 [Portfolio](https://portfolio-ashen-sigma-cndksz8six.vercel.app/)
 - 📧 [kapilhardik11@gmail.com](mailto:kapilhardik11@gmail.com)
 
 ---
